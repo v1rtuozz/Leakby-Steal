@@ -1,0 +1,4 @@
+requests
+psutil
+pywin32
+pycryptodomex
