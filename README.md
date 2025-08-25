@@ -1,9 +1,7 @@
 # LeakBy Stealer 🔒➡️📤
 
 Мощный и незаметный стилер для сбора критически важных данных с целевых систем. Получает cookies, пароли, Discord токены и автоматически отправляет их в Telegram.
-
-![VirusTotal Score](https://github.com/user-attachments/assets/5ed3734e-97d0-4ac8-8198-858aa01b60c8)
-<img width="657" height="196" alt="image" src="https://github.com/user-attachments/assets/8be3b51c-6b12-4923-a4de-53d456fd25da" />
+Virustotal Results: 9/70
 
 
 ## ✨ Особенности
